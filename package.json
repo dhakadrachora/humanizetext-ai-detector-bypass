@@ -1,0 +1,8 @@
+{
+  "name": "humanizetext-ai-detector-bypass",
+  "version": "1.0.0",
+  "description": "Convert robotic ChatGPT and AI content into natural, human-like readable text with zero AI footprint.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
